@@ -5,8 +5,10 @@
 
 <div>
 
-- 🔭 <samp>I’m currently working as a Student Developer in [GSoC 21](https://summerofcode.withgoogle.com/projects/#5399152164339712).
-- ✍🏻 <samp>I post about Data Structures and Algorithms on [LinkedIn](https://www.linkedin.com/in/d-ajay-kumar-60a003194/detail/recent-activity/shares/).
+- ✈️ <samp>I’m currently working as a Software Development Engineer 2 at Amadeus
+- 🪄 <samp>I’ve been a Mentor in Google Summer of Code 2022
+- 🔭 <samp>Worked as a Student Developer in [GSoC 21](https://summerofcode.withgoogle.com/projects/#5399152164339712).
+- ✍🏻 <samp>I post about Data Structures & Algorithms and Java on [LinkedIn](https://www.linkedin.com/in/d-ajay-kumar-60a003194/detail/recent-activity/shares/).
 - 💬 <samp>Ask me about Flutter, Dart & Civil Engineering.
 - ⚡ <samp>I’m a Microsoft Learn Student Ambassador.
 - 🥇 <samp>Open Source Enthusiast.
